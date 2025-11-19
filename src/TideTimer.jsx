@@ -262,7 +262,7 @@ export default function TideTimer() {
         </div>
 
         <a 
-          href="https://ko-fi.com/YOUR_USERNAME" 
+          href="https://ko-fi.com/tidetimer" 
           target="_blank" 
           rel="noreferrer" 
           className="group flex items-center gap-2 px-4 py-2 rounded-full bg-slate-900/50 text-slate-500 hover:text-blue-400 hover:bg-slate-900 transition-all duration-300 text-xs font-medium border border-transparent hover:border-slate-800"
