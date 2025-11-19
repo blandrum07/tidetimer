@@ -258,6 +258,12 @@ export default function TideTimer() {
       <div className="absolute bottom-8 text-slate-600 text-xs max-w-xs text-center leading-relaxed">
         Work as long as you can maintain focus. <br/>
         When you stop, your rest time will be calculated as <span className="text-slate-400 whitespace-nowrap">Work ÷ 3</span>.
+
+        {/* Ko-fi Button */}
+        <a href="https://ko-fi.com/tidetimer" target="_blank" rel="noreferrer" className="text-slate-700 hover:text-blue-400 transition-colors text-xs font-medium flex items-center gap-1">
+            <Coffee size={12} />
+            <span>Keep the tide flowing</span>
+        </a>
       </div>
 
     </div>
